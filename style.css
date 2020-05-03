@@ -73,3 +73,12 @@ p, ul {
 .card li {
 	margin-left: 50px;
 }
+
+a {
+	color: rgb(139, 81, 144,);
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
